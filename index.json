@@ -1,0 +1,28 @@
+{
+  "musicFiles": [
+    {
+      "name": "ambient-piano-and-strings",
+      "file": "assets/music/ambient-piano-and-strings-10711.mp3"
+    },
+    {
+      "name": "inspiring-cinematic-ambient",
+      "file": "assets/music/inspiring-cinematic-ambient-116199.mp3"
+    },
+    {
+      "name": "meditation-music-without-nature-sound",
+      "file": "assets/music/meditation-music-without-nature-sound-256142.mp3"
+    },
+    {
+      "name": "perfect-beauty",
+      "file": "assets/music/perfect-beauty-191271.mp3"
+    },
+    {
+      "name": "the-beat-of-nature",
+      "file": "assets/music/the-beat-of-nature-122841.mp3"
+    },
+    {
+      "name": "zen-cascade-meditation-spa-relaxation",
+      "file": "assets/music/zen-cascade-meditation-spa-relaxation-music-252902.mp3"
+    }
+  ]
+}
